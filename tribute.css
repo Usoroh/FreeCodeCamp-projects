@@ -56,10 +56,10 @@ ul, #quote {
 	width: 50vw;
 }
 
-#quote {
-	text-align: center;
+ul {
+	line-height: 1.6;
 }
 
-figcaption {
+figcaption, h3, #quote {
 	text-align: center;
 }
