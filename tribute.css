@@ -65,7 +65,7 @@ figcaption, h3, #quote {
 	text-align: center;
 }
 
-@media screen and (max-width: 900px) {
+@media all and (max-width: 900px) {
 
 	body {
 		background: #232323;
