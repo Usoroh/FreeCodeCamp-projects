@@ -1,0 +1,65 @@
+body {
+	background-image: url(http://www.dream-wallpaper.com/free-wallpaper/art-wallpaper/colored-canvas-2-wallpaper/1280x800/free-wallpaper-20.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#main {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin: 0 auto;
+	width: 70vw;
+	background-color: #232323;
+}
+
+h1, h3, p, li, a {
+	color: white;
+	font-family: 'Inconsolata', monospace;
+}
+
+h1 {
+	font-family: 'Bahianita', cursive;
+	font-size: 48px;
+}
+
+#draw {
+	/*font-family: 'Raleway', sans-serif;*/
+	font-family: 'Inconsolata', monospace;
+	font-size: 16px;
+	margin-top: 0;
+}
+
+#tribute-info {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+#img-div {
+	/*border: 1px solid red;*/
+	display: flex;
+	flex-direction: row;
+	max-width: 100%;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+img {
+	object-fit: contain;
+	max-width: 200px;
+	max-height: 200px;
+	margin: 5px;
+}
+
+ul, #quote {
+	width: 50vw;
+}
+
+#quote {
+	text-align: center;
+}
+
+figcaption {
+	text-align: center;
+}
