@@ -64,3 +64,15 @@ ul {
 figcaption, h3, #quote {
 	text-align: center;
 }
+
+@media screen and (max-width: 700px) {
+
+	body {
+		background: #232323;
+	}
+
+	#main {
+		width: auto;
+		border-radius: 0;
+	}
+}
