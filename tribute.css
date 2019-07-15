@@ -76,12 +76,4 @@ figcaption, h3, #quote {
 		border-radius: 0;
 	}
 	
-	h1 {
-		font-size: 4em;
-	}
-
-	#draw {
-		font-size: 36px;
-		color: red;
-	}
 }
