@@ -75,4 +75,13 @@ figcaption, h3, #quote {
 		width: auto;
 		border-radius: 0;
 	}
+	
+	h1 {
+		font-size: 4em;
+	}
+
+	#draw {
+		font-size: 36px;
+
+	}
 }
